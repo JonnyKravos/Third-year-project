@@ -1,0 +1,3 @@
+<a href="https://twitter.com/plutokiller?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @plutokiller</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-height="600" data-theme="dark" href="https://twitter.com/plutokiller?ref_src=twsrc%5Etfw">Tweets by plutokiller</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=plutokiller&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @plutokiller</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,0 +1,73 @@
+.btn-align{
+	margin-top: 30px;
+}
+
+.btn-margin{
+	margin-top: -22px;
+}
+
+.btn-margin-down{
+	margin-top: 20px;
+}
+
+.btn-spacing{
+	margin-right: 100px;
+}
+
+.edit-margin{
+	margin-top: 10px
+}
+
+.jumbotron{
+	background-image: url("/view_earth.jpg");
+	background-position: 0px -70px;
+}
+
+.comment {
+	margin-bottom: 55px;
+}
+
+.user-name {
+	float: left;
+	margin-left: 15px;
+}
+
+.user-name>h4 {
+	margin: 5px 0px;
+}
+
+.user-time {
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+	clear: both;
+	margin-left: 15px;
+}
+
+.comment-content {
+	clear: both;
+	margin-left: 15px;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+.comments-title {
+	margin-bottom: 45px
+}
+
+.comments-title>span {
+	margin-right: 5px;
+}
+
+.comment-icons {
+	margin-top: -10px;
+	margin-left: 680px;
+}
+
+.delete-btn {
+	clear: both;
+}
+
+.edit-icon {
+	margin-left: 17px;
+}
